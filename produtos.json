@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nome": "Macarrão",
+        "marca": "Vitarela",
+        "preco": 3.50,
+        "quantidadeEstoque": 150,
+        "disponivelProntaEntrega": true
+    },
+    {
+        "id":2,
+        "nome": "Diamante Negro",
+        "marca": "Lacta",
+        "preco": 8.50,
+        "quantidadeEstoque": 300,
+        "disponivelProntaEntrega": true
+    },
+    {
+        "id":3,
+        "nome": "Feijão",
+        "marca": "Kicaldo",
+        "preco": 7.50,
+        "quantidadeEstoque": 0,
+        "disponivelProntaEntrega": false
+    }
+]
